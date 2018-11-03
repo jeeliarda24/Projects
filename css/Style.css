@@ -8,6 +8,11 @@ html, body {
     color: white;
 }
 
+h1 {
+    color: red;
+    text-align: center;
+}
+
 .maindev {    
     margin:0 30px;line-height:50px;color:white;  
 }
