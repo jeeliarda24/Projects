@@ -22,6 +22,34 @@ h1 {
     height: 10px;
 }
 
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.violet{
+    background-color:rebeccapurple;
+}
+.pink{
+    background-color: pink;
+}
+.green{
+    background-color: green;
+}
+.pinky{
+    background-color: violet;
+}
+.sblue{
+    background-color: skyblue;
+}
+
 .w3-center {
     text-align: center!important;
 }
@@ -66,25 +94,7 @@ h1 {
 @media (min-width:993px){
     .w3-col.l3{
         width:5%;        
-    }  
-.red{
-    background-color: red;
-}
-.yellow{
-    background-color: yellow;
-}
-.blue{
-    background-color: blue;
-}
-.orange{
-    background-color: orange;
-}
-.violet{
-    background-color: violet;
-}
-.pink{
-    background-color: pink;
-}
+    } 
 }
 
 
